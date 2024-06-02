@@ -2,6 +2,8 @@
 Live translator for PC input
 
 # 使用教學：
+
+### **Pre. 先下載上方兩個檔案並存至同一個資料夾**
 1. 安裝 [VB-Virtual Audio Device](https://vb-audio.com/Cable/)
 2. 安裝後將CABLE Input設定為預設播放裝置
 
