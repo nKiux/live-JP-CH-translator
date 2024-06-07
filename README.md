@@ -48,3 +48,8 @@ Version 2
 
 # 預覽：
 ![image](https://github.com/nKiux/live-JP-CH-translator/assets/46084374/a3c1f232-1cb0-4b6d-aef8-4f1cd3178552)
+
+
+![螢幕擷取畫面 2024-06-07 225608](https://github.com/nKiux/live-JP-CH-translator/assets/46084374/eebfea6d-9c85-4fa5-9ea4-4556329a09c2)
+
+
