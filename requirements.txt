@@ -1,0 +1,5 @@
+speechrecognition
+translate
+deep-translator
+pyaudio
+setuptools
